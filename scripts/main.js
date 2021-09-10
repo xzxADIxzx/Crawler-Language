@@ -32,13 +32,13 @@ update_content();
 
 function update_content() {
 	var content = Vars.content;
-	content.items().forEach(item => update(item) )
-	content.liquids().forEach(item => update(item) )
-	content.blocks().forEach(item => update(item) )
-	content.units().forEach(item => update(item) )
-	content.statusEffects().forEach(item => update(item) )
-	content.sectors().forEach(item => update(item) )
-	content.planets().forEach(item => update(item) )
+	content.items().items.forEach(item => update(item) )
+	content.liquids().items.forEach(item => update(item) )
+	content.blocks().items.forEach(item => update(item) )
+	content.units().items.forEach(item => update(item) )
+	content.statusEffects().items.forEach(item => update(item) )
+	content.sectors().items.forEach(item => update(item) )
+	content.planets().items.forEach(item => update(item) )
 }
 
 function update(item){
