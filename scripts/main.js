@@ -32,17 +32,18 @@ update_content();
 
 function update_content() {
 	var content = Vars.content;
-	content.items().items.forEach(item => update(item) )
-	content.liquids().items.forEach(item => update(item) )
-	content.blocks().items.forEach(item => update(item) )
-	content.units().items.forEach(item => update(item) )
-	content.statusEffects().items.forEach(item => update(item) )
-	content.sectors().items.forEach(item => update(item) )
-	content.planets().items.forEach(item => update(item) )
+	content.items().items.forEach(item => update(item) );
+	content.liquids().items.forEach(item => update(item) );
+	content.blocks().items.forEach(item => update(item) );
+	content.units().items.forEach(item => update(item) );
+	content.statusEffects().items.forEach(item => update(item) );
+	content.sectors().items.forEach(item => update(item) );
+	content.planets().items.forEach(item => update(item) );
 }
 
 function update(item){
-	if(item.isHidden()) return; // Don`t update if item hidden... like "none"
+	if (item == null) return; // idk why but on mobile something went wrong
+	if (item.isHidden()) return; // Don`t update if item hidden... like "none"
 	var type = item.getContentType();
 	item.localizedName = Core.bundle.get(type + "." + item.name + ".name");
 	item.description = Core.bundle.getOrNull(type + "." + item.name + ".description");
