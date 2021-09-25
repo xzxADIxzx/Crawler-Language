@@ -1,9 +1,4 @@
-require("mod");
-importPackage(Packages.arc);
-importPackage(Packages.arc.util.io);
-importPackage(Packages.arc.scene.ui);
-importPackage(Packages.mindustry.ui);
-importPackage(Packages.mindustry.game);
+require("Crawler-Language/mod");
 
 Events.on(EventType.ClientLoadEvent, e => {
 	var dialog = Vars.ui.language;
