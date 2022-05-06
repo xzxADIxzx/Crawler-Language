@@ -1,4 +1,4 @@
-Events.on(EventType.ClientLoadEvent, e => {
+Events.on(EventType.ClientLoadEvent, event => {
 	var button = new TextButton("crawler langu", Styles.clearTogglet);
 	button.clicked(() => {
 		if (Core.settings.getString("locale") == "cw") return;
@@ -28,8 +28,7 @@ PropertiesUtils.load(Core.bundle.getProperties(), file.reader());
 Vars.content.each(item => update(item)); // update localized strings
 
 function update(item) {
-	if (item == null) return; // idk why but on mobile something went wrong
-	if (item.isHidden()) return; // don`t update if item hidden like "none"
+	if (item == null || item.isHidden()) return; // idk why but on mobile something went wrong
 	var type = item.getContentType();
 	item.localizedName = Core.bundle.get(type + "." + item.name + ".name");
 	item.description = Core.bundle.getOrNull(type + "." + item.name + ".description");
