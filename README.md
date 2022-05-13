@@ -32,7 +32,7 @@ Sentences are separated by a sign  and a particle of time is put at the end, 
 * ayowl dot spiar\`i toi yoy . yoy dot wioko\`i toi ayowl
 
 There are well-established expressions in the language, i.e. instead of *ayowl dot cu toi yoy* you can say just *cu*.
-Or for example *nim nim* translated translates as delicious.
+Or for example *nim nim* translates as delicious.
 
 ## Vocabulary
 All words and their translation into English.
@@ -74,7 +74,7 @@ adone - add
 
 <!-- B -->
 <!-- C -->
-cryo - cryofluid
+cryo - cryofluid   
 cu - greetings
 
 <!-- D -->
