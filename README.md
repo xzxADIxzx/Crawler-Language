@@ -8,7 +8,7 @@ a b c d e g h i l m n o p r s t u w y
 Some combinations of letters form their own sounds.   
 th[ð] ph[θ] sh[ʂ]
 
-Some signs have their own name and are pronounced in speech.
+Some signs have their own name and are pronounced in speech.   
 ?[as'] ![vɒu]
 
 ## Word Formation
@@ -30,6 +30,9 @@ Sentences are separated by a sign  and a particle of time is put at the end, 
 
 * ayowl dot spiar\`i toi yoy niw  yoy dot wioko\`i toi ayowl niw
 * ayowl dot spiar\`i toi yoy . yoy dot wioko\`i toi ayowl
+
+There are well-established expressions in the language, i.e. instead of *ayowl dot cu toi yoy* you can say just *cu*.
+Or for example *nim nim* translated translates as delicious.
 
 ## Vocabulary
 All words and their translation into English.
@@ -67,11 +70,16 @@ Additional parts can be used instead.
 All words will be in alphabetical order.
 
 <!-- A -->
+adone - add
+
 <!-- B -->
 <!-- C -->
 cryo - cryofluid
+cu - greetings
 
 <!-- D -->
+dom - use
+
 <!-- E -->
 ethe[ɛkzɛ] - be
 
@@ -89,6 +97,8 @@ lio - liquid
 maoma - water
 
 <!-- N -->
+nim - eat
+
 <!-- O -->
 <!-- P -->
 pharom - fire
