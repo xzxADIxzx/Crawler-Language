@@ -1,5 +1,7 @@
 # Crawler Language
-This language is conceptual and designed to be.
+This language is conceptual and designed to be.   
+The mod can be downloaded from the in-game mod browser.   
+If something does not suit you, create an issue.
 
 ## Alphabet
 The crawler alphabet has 19 letters and no capitals.   
@@ -46,7 +48,7 @@ All words and their translation into English.
 There are quite a few of them because language at an early stage of development.
 
 ### Personal Pronouns
-Singular pronouns simply are exist .  
+Singular pronouns simply are exist.
 
 * ayowl - i
 * yoy - you
@@ -69,7 +71,7 @@ There is no object case in this language, deal with it.
 * coho - who / whom
 
 ### Particles of Time
-Additional parts can be used instead.
+Subordinate clause can be used instead.
 
 * phur - future
 * niw - present
