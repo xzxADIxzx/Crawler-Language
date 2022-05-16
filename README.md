@@ -28,10 +28,17 @@ The basic word order in this language is SVO.
 In a sentence, the subject is separated from the verb with *dot*, and the verb from the object with *toi*.
 Sentences are separated by a sign  and a particle of time is put at the end, but for convenience, you can separate by a dot and not put a particle.
 
-* ayowl dot spiar\`i toi yoy niw  yoy dot wioko\`i toi ayowl niw
-* ayowl dot spiar\`i toi yoy . yoy dot wioko\`i toi ayowl
+* ayowl dot spiar\`i toi yoy niw  yoy dot wioko\`i ma ayowl niw
+* ayowl dot spiar\`i toi yoy . yoy dot wioko\`i ma ayowl
 
-There are well-established expressions in the language, i.e. instead of *ayowl dot cu toi yoy* you can say just *cu*.
+The language also has subordinate clauses, but they are separated not by commas, but by the question to which they answer. 
+If **you** perform the actions, then the subordinate conjunctions *ma* and *coho* are replaced by *toi*.
+It came from the very old crawler language.
+
+* eto\`e dot wioko\`i coho ingin\`or . eto\`e dot nim\`i ma waoma
+* ayowl dot wioko\`i toi ingin\`or . ayowl dot nim\`i toi waoma
+
+There are well-established expressions in the language, i.e. instead of *ayowl dot cu\`i toi yoy* you can say just *cu*.
 Or for example *nim nim* translates as delicious.
 
 ## Vocabulary
@@ -53,11 +60,13 @@ The ending *e* is added to plural pronouns.
 
 There is no object case in this language, deal with it.
 
-### Questions
+### Questions and Subordinating Conjunctions
+* toi - special subordinating conjunction
 * ma - what
 * ima - what for
 * cuth - why
 * ate - when
+* coho - who / whom
 
 ### Particles of Time
 Additional parts can be used instead.
@@ -70,7 +79,7 @@ Additional parts can be used instead.
 All words will be in alphabetical order.
 
 <!-- A -->
-adone - add
+adone - addition
 
 <!-- B -->
 <!-- C -->
@@ -78,7 +87,7 @@ cryo - cryofluid
 cu - greetings
 
 <!-- D -->
-dom - use
+dom - usage
 
 <!-- E -->
 ethe[ɛkzɛ] - be
@@ -97,7 +106,7 @@ lio - liquid
 maoma - water
 
 <!-- N -->
-nim - eat
+nim - eat / drink
 
 <!-- O -->
 <!-- P -->
