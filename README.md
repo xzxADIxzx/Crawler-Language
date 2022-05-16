@@ -96,8 +96,8 @@ adone - addition
 blaco - coal
 
 <!-- C -->
-coum - ice
-cosmo - space
+coum - ice   
+cosmo - space   
 cryo - cryofluid   
 cu - greetings
 
@@ -118,36 +118,36 @@ ingin - engineering
 lio - liquid
 
 <!-- M -->
-magma - slag
-maoma - water
+magma - slag   
+maoma - water   
 medi - copper
 
 <!-- N -->
-nim - eat / drink
-noun - stone
+nim - eat / drink   
+noun - stone   
 noy - no / false
 
 <!-- O -->
 <!-- P -->
-pharom - fire
-phou - air
+pharom - fire   
+phou - air   
 pur - softness
 
 <!-- R -->
 routher - router
 
 <!-- S -->
-sei - yes / true
-shagl - meta glass
-sili - silicon
-spiar - talk
-spor - spore pod
+sei - yes / true   
+shagl - meta glass   
+sili - silicon   
+spiar - talk   
+spor - spore pod   
 surs - resource
 
 <!-- T -->
-thosa - lead
-titin - titanium
-tophi - phase fabric
+thosa - lead   
+titin - titanium   
+tophi - phase fabric   
 tori - thorium
 
 <!-- U -->
