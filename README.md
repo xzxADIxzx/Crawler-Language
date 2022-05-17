@@ -28,19 +28,18 @@ Ending *e* can be combined with ending *or*.
 ## Sentence Formation
 The basic word order in this language is SVO.
 In a sentence, the subject is separated from the verb with *dot*, and the verb from the object with *toi*.
-Sentences are separated by a sign  and a particle of time is put at the end, but for convenience, you can separate by a dot and not put a particle.
+Sentences are separated by a sign  and a particle of time is put at the end, but for convenience, you can separate by a dot and not put a particle if in the previous sentence there is a particle of the same time.
 
-* ayowl dot spiar\`i toi yoy niw  yoy dot wioko\`i ma ayowl niw
-* ayowl dot spiar\`i toi yoy . yoy dot wioko\`i ma ayowl
+* ayowl dot spiar\`i coho yoy niw  yoy dot wioko\`i ma ayowl niw
+* ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma ayowl
 
-The language also has subordinate clauses, but they are separated not by commas, but by the question to which they answer. 
-If **you** perform the actions, then the subordinate conjunctions *ma* and *coho* are replaced by *toi*.
-It came from the very old crawler language.
+The language also has subordinate clauses, but they are separated not by commas, but by the question to which they answer.
+In a very old version of the language, instead of the subordinating conjunctions *ma* and *coho* it was *toi*, but now this conjunction means *in what* or *what to*.
 
-* eto\`e dot wioko\`i coho ingin\`or . eto\`e dot nim\`i ma waoma
-* ayowl dot wioko\`i toi ingin\`or . ayowl dot nim\`i toi waoma
+* ayowl dot wioko\`i coho ingin\`or niw
+* ayowl dot nim\`i ma waoma niw
 
-There are well-established expressions in the language, i.e. instead of *ayowl dot cu\`i toi yoy* you can say just *cu*.
+There are well-established expressions in the language, i.e. instead of *ayowl dot cu\`i coho yoy niw* you can say just *cu*.
 Or for example *nim nim* translates as delicious.
 
 ## Vocabulary
@@ -63,9 +62,10 @@ The ending *e* is added to plural pronouns.
 There is no object case in this language, deal with it.
 
 ### Questions and Subordinating Conjunctions
-* toi - special subordinating conjunction
 * ma - what
 * ima - what for
+* to - where
+* toi - where to
 * cuth - why
 * ate - when
 * coho - who / whom
@@ -90,7 +90,7 @@ Crawlers have a quinary number system.
 All words will be in alphabetical order.
 
 <!-- A -->
-adone - addition
+adon - addition
 
 <!-- B -->
 blaco - coal
@@ -102,7 +102,8 @@ cryo - cryofluid
 cu - greetings
 
 <!-- D -->
-dom - usage
+dom - usage   
+dohil - health
 
 <!-- E -->
 ethe[ɛkzɛ] - be
@@ -152,6 +153,7 @@ tori - thorium
 
 <!-- U -->
 <!-- W -->
-wioko - vision
+wioko - vision   
+wol - life
 
 <!-- Y -->
