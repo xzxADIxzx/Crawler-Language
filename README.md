@@ -27,8 +27,8 @@ Ending *e* can be combined with ending *or*.
 
 ## Sentence Formation
 The basic word order in this language is SVO.
-In a sentence, the subject is separated from the verb with *dot*, and the verb from the object with *toi*.
-Sentences are separated by a sign  and a particle of time is put at the end, but for convenience, you can separate by a dot and not put a particle if in the previous sentence there is a particle of the same time.
+In a sentence, the subject is separated from the predicate with *dot*.
+Sentences are separated by a dot and a particle of time is placed at the end, but for convenience, you can not put a particle of time if the previous sentence has a particle of the same time, or replace it with a subordinate clause.
 
 * ayowl dot spiar\`i coho yoy niw  yoy dot wioko\`i ma ayowl niw
 * ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma ayowl
