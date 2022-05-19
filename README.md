@@ -126,11 +126,11 @@ lio - liquid
 <!-- M -->
 magma - slag   
 maoma - water   
-medi - copper
+medi - copper   
 memer - memory
 
 <!-- N -->
-newer - knowledge
+newer - knowledge   
 nim - eat / drink   
 noun - stone   
 noy - no / false
