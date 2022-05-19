@@ -30,7 +30,7 @@ The basic word order in this language is SVO.
 In a sentence, the subject is separated from the predicate with *dot*.
 Sentences are separated by a dot and a particle of time is placed at the end, but for convenience, you can not put a particle of time if the previous sentence has a particle of the same time, or replace it with a subordinate clause.
 
-* ayowl dot spiar\`i coho yoy niw  yoy dot wioko\`i ma ayowl niw
+* ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma ayowl niw
 * ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma ayowl
 
 The language also has subordinate clauses, but they are separated not by commas, but by the question to which they answer.
@@ -47,19 +47,23 @@ All words and their translation into English.
 There are quite a few of them because language at an early stage of development.
 
 ### Personal Pronouns
-Singular pronouns simply are exist.
+There is no object case in this language, deal with it.
 
 * ayowl - i
+* owl - we
+* ayone - he / she
+* one - they
 * yoy - you
 * eto - it
 
-The ending *e* is added to plural pronouns.
+### Universal, indefinite and negative pronouns
 
-* owl\`e - we
-* yoy\`e - you[plural]
-* eto\`e - they
-
-There is no object case in this language, deal with it.
+* alone - everybody
+* aleto - everything
+* alyone - anybody
+* alyeto - anything
+* noone - nobody
+* noeto - nothing
 
 ### Questions and Subordinating Conjunctions
 * ma - what
@@ -113,6 +117,7 @@ ethe[ɛkzɛ] - be
 hier - hearing
 
 <!-- I -->
+imgur - image   
 ingin - engineering
 
 <!-- L -->
@@ -122,8 +127,10 @@ lio - liquid
 magma - slag   
 maoma - water   
 medi - copper
+memer - memory
 
 <!-- N -->
+newer - knowledge
 nim - eat / drink   
 noun - stone   
 noy - no / false
@@ -138,7 +145,7 @@ pur - softness
 routher - router
 
 <!-- S -->
-sei - yes / true   
+sey - yes / true   
 shagl - meta glass   
 sili - silicon   
 spiar - talk   
