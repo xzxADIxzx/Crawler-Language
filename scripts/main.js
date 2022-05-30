@@ -22,15 +22,17 @@ meta.author = "[#0096FF]xzxADIxzx";
 meta.displayName = "Crawler Langu ";
 meta.description = "adon`i ma langu toi [accent]Mindustry[]"
 
-// change Core.bundle
-var file = Vars.mods.locateMod("crawler-language").root.child("bundles").list()[0];
+// create a new bundle
+var file = Vars.mods.locateMod("crawler-language").root.child("bundles").list()[1];
 PropertiesUtils.load(Core.bundle.getProperties(), file.reader());
 Vars.content.each(update); // update localized strings
 
 function update(item) {
-	if (item == null || item.isHidden()) return; // idk why but on mobile something went wrong
+	// idk why but on mobile the item can be null
+	if (item instanceof UnlockableContent == false) return;
+
 	var type = item.getContentType() + "." + item.name;
-	item.localizedName = Core.bundle.get(type + ".name");
+	item.localizedName = Core.bundle.get(type + ".name", item.name);
 	item.description = Core.bundle.getOrNull(type + ".description");
 	item.details = Core.bundle.getOrNull(type + ".details");
 }
