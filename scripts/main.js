@@ -25,14 +25,14 @@ meta.description = "adon`i ma langu toi [accent]Mindustry[]"
 // change Core.bundle
 var file = Vars.mods.locateMod("crawler-language").root.child("bundles").list()[0];
 PropertiesUtils.load(Core.bundle.getProperties(), file.reader());
-Vars.content.each(item => update(item)); // update localized strings
+Vars.content.each(update); // update localized strings
 
 function update(item) {
 	if (item == null || item.isHidden()) return; // idk why but on mobile something went wrong
-	var type = item.getContentType();
-	item.localizedName = Core.bundle.get(type + "." + item.name + ".name");
-	item.description = Core.bundle.getOrNull(type + "." + item.name + ".description");
-	item.details = Core.bundle.getOrNull(type + "." + item.name + ".details");
+	var type = item.getContentType() + "." + item.name;
+	item.localizedName = Core.bundle.get(type + ".name");
+	item.description = Core.bundle.getOrNull(type + ".description");
+	item.details = Core.bundle.getOrNull(type + ".details");
 }
 
 function getCell(item, index) {

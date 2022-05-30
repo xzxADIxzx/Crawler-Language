@@ -100,6 +100,8 @@ adon - addition
 blaco - coal
 
 <!-- C -->
+capa - storage / capacity   
+corupt - disease   
 coum - ice   
 cosmo - space   
 cryo - cryofluid   
