@@ -66,7 +66,7 @@ There is no object case in this language, deal with it.
 * noeto - nothing
 
 ### Questions and Subordinating Conjunctions
-* ma - what
+* ma - what / of what
 * ima - what for
 * to - where
 * toi - where to
@@ -94,13 +94,17 @@ Crawlers have a quinary number system.
 All words will be in alphabetical order.
 
 <!-- A -->
-adon - addition
+adon - addition   
+amuno - ammunition   
+aytem - item
 
 <!-- B -->
 blaco - coal
 
 <!-- C -->
 capa - storage / capacity   
+con - connection   
+constict - structure / construction   
 corupt - disease   
 coum - ice   
 cosmo - space   
@@ -115,6 +119,9 @@ dohil - health
 ethe[ɛkzɛ] - be
 
 <!-- G -->
+gid - type / kind   
+group - group
+
 <!-- H -->
 hier - hearing
 
@@ -129,6 +136,8 @@ lio - liquid
 magma - slag   
 maoma - water   
 medi - copper   
+mesh - scrap   
+metio - block   
 memer - memory
 
 <!-- N -->
@@ -150,6 +159,7 @@ routher - router
 sey - yes / true   
 shagl - meta glass   
 sili - silicon   
+souwl - slow   
 spiar - talk   
 spor - spore pod   
 surs - resource
@@ -161,8 +171,12 @@ tophi - phase fabric
 tori - thorium
 
 <!-- U -->
+um - mind
+
 <!-- W -->
+walom - wall   
 wioko - vision   
-wol - life
+wol - life   
+wuik - fast
 
 <!-- Y -->
