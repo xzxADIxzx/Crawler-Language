@@ -8,7 +8,7 @@ The crawler alphabet has 19 letters and no capitals.
 a b c d e g h i l m n o p r s t u w y
 
 Some combinations of letters form their own sounds.   
-th[ð] ph[θ] sh[ʂ]
+th[ð] ph[θ] sh[ʂ] ch[t͡ɕ]
 
 Some signs have their own name and are pronounced in speech.   
 ?[as'] ![vɒu]
@@ -17,7 +17,7 @@ Some signs have their own name and are pronounced in speech.
 Everything is simple, there are roots and endings needed to change the meaning of the word.
 Roots are at the beginning, and endings get rid of the root with the sing \` or if you like '.
 There are only a few endings and each has its own semantic meaning.   
-e[plural] i[verb] or[occupation]   
+e[plural] i[verb] or[occupation] thio[transformation]   
 Ending *e* can be combined with ending *or*.
 
 * ingin - engineering
@@ -73,6 +73,7 @@ There is no object case in this language, deal with it.
 * cuth - why
 * ate - when
 * coho - who / whom
+* arch - what it is like / equals
 
 ### Particles of Time
 Subordinate clause can be used instead.
@@ -116,7 +117,9 @@ dom - usage
 dohil - health
 
 <!-- E -->
-ethe[ɛkzɛ] - be
+ener - energy   
+enerion - electricity   
+ethe - do
 
 <!-- G -->
 gid - type / kind   
@@ -150,6 +153,7 @@ noy - no / false
 <!-- P -->
 pharom - fire   
 phou - air   
+plast - plastanium   
 pur - softness
 
 <!-- R -->
@@ -168,7 +172,8 @@ surs - resource
 thosa - lead   
 titin - titanium   
 tophi - phase fabric   
-tori - thorium
+tori - thorium   
+tramov - transportation
 
 <!-- U -->
 um - mind
