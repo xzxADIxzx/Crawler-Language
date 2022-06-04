@@ -164,6 +164,7 @@ noy - no / false
 para - part / component   
 pharom - fire   
 phou - air   
+phuil - fuel   
 phurs - softness   
 plast - plastanium   
 potent - potential   

@@ -23,7 +23,7 @@ meta.displayName = "Crawler Langu ";
 meta.description = "adon`i ma langu toi [accent]Mindustry[]"
 
 // create a new bundle
-var file = Vars.mods.locateMod("crawler-language").root.child("bundles").list()[1];
+var file = Vars.mods.locateMod("crawler-language").root.child("bundles").child("bundle_cw.properties");
 PropertiesUtils.load(Core.bundle.getProperties(), file.reader());
 Vars.content.each(update); // update localized strings
 
