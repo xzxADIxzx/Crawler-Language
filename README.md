@@ -104,6 +104,7 @@ blaco - coal
 
 <!-- C -->
 capa - storage / capacity   
+cinet - kinetics   
 con - connection   
 constict - structure / construction   
 corupt - disease   
@@ -139,13 +140,16 @@ lio - liquid
 magma - slag   
 maoma - water   
 medi - copper   
+melo - alloy   
 mesh - scrap   
+metal - metal   
 metio - block   
 memer - memory
 
 <!-- N -->
 newer - knowledge   
 nim - eat / drink   
+noami - name   
 noun - stone   
 noy - no / false
 
@@ -154,9 +158,12 @@ noy - no / false
 pharom - fire   
 phou - air   
 plast - plastanium   
-pur - softness
+potent - potential   
+pur - softness   
+pul - impulse / impact
 
 <!-- R -->
+radom - reactor   
 routher - router
 
 <!-- S -->
@@ -173,7 +180,8 @@ thosa - lead
 titin - titanium   
 tophi - phase fabric   
 tori - thorium   
-tramov - transportation
+tramov - transportation   
+trasprey - distribution
 
 <!-- U -->
 um - mind
