@@ -11,7 +11,7 @@ Some combinations of letters form their own sounds.
 th[ð] ph[θ] sh[ʂ] ch[t͡ɕ]
 
 Some signs have their own name and are pronounced in speech.   
-?[as'] ![vɒu]
+?[as'] ![vɒu] |[ɲj]
 
 ## Word Formation
 Everything is simple, there are roots and endings needed to change the meaning of the word.
@@ -38,6 +38,11 @@ In a very old version of the language, instead of the subordinating conjunctions
 
 * ayowl dot wioko\`i coho ingin\`or niw
 * ayowl dot nim\`i ma waoma niw
+
+If the sentence does not end after the complex part, then you need to put the sign |.
+
+* ayowl dot wioko\`i ma spor niw
+* adpromet ma medi| arch wuic phur
 
 There are well-established expressions in the language, i.e. instead of *ayowl dot cu\`i coho yoy niw* you can say just *cu*.
 Or for example *nim nim* translates as delicious.
@@ -96,6 +101,7 @@ All words will be in alphabetical order.
 
 <!-- A -->
 adon - addition   
+adprotem - production   
 amuno - ammunition   
 aytem - item
 
@@ -155,11 +161,14 @@ noy - no / false
 
 <!-- O -->
 <!-- P -->
+para - part / component   
 pharom - fire   
 phou - air   
+phurs - softness   
 plast - plastanium   
 potent - potential   
-pur - softness   
+protem - product   
+pur - purity / refined   
 pul - impulse / impact
 
 <!-- R -->
@@ -181,7 +190,8 @@ titin - titanium
 tophi - phase fabric   
 tori - thorium   
 tramov - transportation   
-trasprey - distribution
+trasprey - distribution   
+turet - turret
 
 <!-- U -->
 um - mind
@@ -190,6 +200,6 @@ um - mind
 walom - wall   
 wioko - vision   
 wol - life   
-wuik - fast
+wuic - fast
 
 <!-- Y -->
