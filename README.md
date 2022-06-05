@@ -30,8 +30,8 @@ The basic word order in this language is SVO.
 In a sentence, the subject is separated from the predicate with *dot*.
 Sentences are separated by a dot and a particle of time is placed at the end, but for convenience, you can not put a particle of time if the previous sentence has a particle of the same time, or replace it with a subordinate clause.
 
-* ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma ayowl niw
-* ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma ayowl
+* ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma imgur niw
+* ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma imgur
 
 The language also has subordinate clauses, but they are separated not by commas, but by the question to which they answer.
 In a very old version of the language, instead of the subordinating conjunctions *ma* and *coho* it was *toi*, but now this conjunction means *in what* or *what to*.
