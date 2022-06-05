@@ -14,16 +14,33 @@ Some signs have their own name and are pronounced in speech.
 ?[as'] ![vɒu] |[ɲj]
 
 ## Word Formation
-Everything is simple, there are roots and endings needed to change the meaning of the word.
-Roots are at the beginning, and endings get rid of the root with the sing \` or if you like '.
-There are only a few endings and each has its own semantic meaning.   
+Everything is simple, there are roots, prefixes and endings, the last two are needed to change the meaning of the word.
+Prefixes are at the beginning, roots are in the middle, and endings are separated from the root with the sign \`.
+There are only a few endings and prefixes.   
 e[plural] i[verb] or[occupation] thio[transformation]   
-Ending *e* can be combined with ending *or*.
+la[adjective] tha[forced adjective] othe[other]   
+Ending *e* and *thio* can be combined with ending *or*.
 
 * ingin - engineering
 * ingin\`or - engineer
 * ingin\`ore - engineers
 * ingin\`i - to engineer
+* ingin\`thio - becoming an engineer
+* ingin\`thior - mentor engineer
+* otheingin\`or - other engineer
+* lamawo - wet
+* thamawo - wetted
+
+### Adjectives
+Adjectives are formed using the prefixes *la* and *tha*, the latter means that the characteristic was given to the subject forcibly.
+
+* lawuic - fast
+* thasouwl - slow**ed**
+
+If the adjective comes before the word to which it refers, then the prefix *la* is not put for reasons of space.
+
+* wuic ayowl dot wuic nim`i
+* wuic ener pharom ayowl
 
 ## Sentence Formation
 The basic word order in this language is SVO.
@@ -34,7 +51,7 @@ Sentences are separated by a dot and a particle of time is placed at the end, bu
 * ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma imgur
 
 The language also has subordinate clauses, but they are separated not by commas, but by the question to which they answer.
-In a very old version of the language, instead of the subordinating conjunctions *ma* and *coho* it was *toi*, but now this conjunction means *in what* or *what to*.
+In a very old version of the language, instead of the subordinating conjunctions *ma* and *coho* it was *toi*, but now this conjunction means *into*.
 
 * ayowl dot wioko\`i coho ingin\`or niw
 * ayowl dot nim\`i ma waoma niw
@@ -65,10 +82,13 @@ There is no object case in this language, deal with it.
 
 * alone - everybody
 * aleto - everything
+* alate - always
 * alyone - anybody
 * alyeto - anything
+* alyate - anytime
 * noone - nobody
 * noeto - nothing
+* noate - never
 
 ### Questions and Subordinating Conjunctions
 * ma - what / of what
@@ -147,7 +167,9 @@ lio - liquid
 
 <!-- M -->
 magma - magma / slag   
+mags - moltenness   
 maoma - water   
+mawo - wetness   
 medi - copper   
 melo - alloy   
 mesh - scrap   
@@ -169,6 +191,7 @@ ocle - atom
 <!-- P -->
 para - part / component   
 pharom - fire   
+phawo - burness   
 phou - air   
 phuil - fuel   
 phurs - softness   
