@@ -74,7 +74,7 @@ There is no object case in this language, deal with it.
 * ma - what / of what
 * ima - what for
 * to - where
-* toi - where to
+* toi - where to / into
 * cuth - why / because
 * ate - when
 * coho - who / whom
@@ -146,7 +146,7 @@ ingin - engineering
 lio - liquid
 
 <!-- M -->
-magma - slag   
+magma - magma / slag   
 maoma - water   
 medi - copper   
 melo - alloy   
@@ -156,6 +156,7 @@ metio - block
 memer - memory
 
 <!-- N -->
+new - understanding   
 newer - knowledge   
 nim - eat / drink   
 noami - name   
@@ -173,7 +174,7 @@ phuil - fuel
 phurs - softness   
 plast - plastanium   
 potent - potential   
-protem - product   
+promet - product   
 pur - purity / refined   
 pul - impulse / impact
 
@@ -188,6 +189,7 @@ sili - silicon
 souwl - slow   
 spiar - talk   
 spor - spore pod   
+supar - sand / fine particles   
 surs - resource
 
 <!-- T -->
