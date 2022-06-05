@@ -106,10 +106,13 @@ amuno - ammunition
 aytem - item
 
 <!-- B -->
-blaco - coal
+blaco - coal   
+bron - durability   
+brum - drill
 
 <!-- C -->
 capa - storage / capacity   
+centarom - core / kernel   
 cinet - kinetics   
 con - connection   
 constict - structure / construction   
@@ -160,6 +163,8 @@ noun - stone
 noy - no / false
 
 <!-- O -->
+ocle - atom
+
 <!-- P -->
 para - part / component   
 pharom - fire   
@@ -186,6 +191,7 @@ spor - spore pod
 surs - resource
 
 <!-- T -->
+terv - looseness   
 thosa - lead   
 titin - titanium   
 tophi - phase fabric   
