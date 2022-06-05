@@ -18,7 +18,7 @@ Everything is simple, there are roots, prefixes and endings, the last two are ne
 Prefixes are at the beginning, roots are in the middle, and endings are separated from the root with the sign \`.
 There are only a few endings and prefixes.   
 e[plural] i[verb] or[occupation] thio[transformation]   
-la[adjective] tha[forced adjective] othe[other]   
+al[all] aly[any] no[negation] la[adjective] tha[forced adjective] othe[other]   
 Ending *e* and *thio* can be combined with ending *or*.
 
 * ingin - engineering
@@ -137,6 +137,7 @@ cinet - kinetics
 con - connection   
 constict - structure / construction   
 corupt - disease   
+cosmo - space   
 coum - ice   
 cosmo - space   
 cryo - cryofluid   
@@ -149,6 +150,7 @@ dohil - health
 <!-- E -->
 ener - energy   
 enerion - electricity   
+eneriothis - electronics   
 ethe - do
 
 <!-- G -->
@@ -163,11 +165,13 @@ imgur - image
 ingin - engineering
 
 <!-- L -->
+lap - plane / *flat surface*   
 lio - liquid
 
 <!-- M -->
 magma - magma / slag   
 mags - moltenness   
+manpara - complex   
 maoma - water   
 mawo - wetness   
 medi - copper   
@@ -186,16 +190,19 @@ noun - stone
 noy - no / false
 
 <!-- O -->
-ocle - atom
+ocle - atom   
+omovey - homing
 
 <!-- P -->
 para - part / component   
+paralap - panel   
 pharom - fire   
 phawo - burness   
 phou - air   
 phuil - fuel   
 phurs - softness   
 plast - plastanium   
+ploil - oil / *mineral liquid oily combustible substance*   
 potent - potential   
 promet - product   
 pur - purity / refined   
@@ -209,6 +216,7 @@ routher - router
 sey - yes / true   
 shagl - metaglass   
 sili - silicon   
+solar - star   
 souwl - slow   
 spiar - talk   
 spor - spore pod   
