@@ -75,7 +75,7 @@ There is no object case in this language, deal with it.
 * ima - what for
 * to - where
 * toi - where to
-* cuth - why
+* cuth - why / because
 * ate - when
 * coho - who / whom
 * arch - what it is like / equals
@@ -183,7 +183,7 @@ routher - router
 
 <!-- S -->
 sey - yes / true   
-shagl - meta glass   
+shagl - metaglass   
 sili - silicon   
 souwl - slow   
 spiar - talk   
