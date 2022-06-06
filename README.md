@@ -140,6 +140,7 @@ corupt - disease
 cosmo - space   
 coum - ice   
 cosmo - space   
+crawler - fictional spider-like creatures   
 cryo - cryofluid   
 cu - greetings
 
@@ -161,11 +162,13 @@ group - group
 hier - hearing
 
 <!-- I -->
+isolayt - insulation   
 imgur - image   
 ingin - engineering
 
 <!-- L -->
 lap - plane / *flat surface*   
+lengu - language   
 lio - liquid
 
 <!-- M -->
@@ -187,6 +190,7 @@ newer - knowledge
 nim - eat / drink   
 noami - name   
 noun - stone   
+nowey - advanced / new   
 noy - no / false
 
 <!-- O -->
@@ -196,6 +200,7 @@ omovey - homing
 <!-- P -->
 para - part / component   
 paralap - panel   
+parash - fragment   
 pharom - fire   
 phawo - burness   
 phou - air   
@@ -234,7 +239,8 @@ trasprey - distribution
 turet - turret
 
 <!-- U -->
-um - mind
+um - mind   
+unt - unit / *unit of measure*
 
 <!-- W -->
 walom - wall   
