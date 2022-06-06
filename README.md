@@ -18,7 +18,7 @@ Everything is simple, there are roots, prefixes and endings, the last two are ne
 Prefixes are at the beginning, roots are in the middle, and endings are separated from the root with the sign \`.
 There are only a few endings and prefixes.   
 e[plural] i[verb] or[occupation] thio[transformation]   
-al[all] aly[any] no[negation] la[adjective] tha[forced adjective] othe[other]   
+al[all] aly[any] no[negation] la[adjective] tha[forced adjective] othe[other] re[repetition] ay[self]   
 Ending *e* and *thio* can be combined with ending *or*.
 
 * ingin - engineering
@@ -133,7 +133,7 @@ brum - drill
 <!-- C -->
 capa - storage / capacity   
 centarom - core / kernel   
-cinet - kinetics   
+saynet - kinetics   
 con - connection   
 constict - structure / construction   
 corupt - disease   
@@ -146,7 +146,8 @@ cu - greetings
 
 <!-- D -->
 dom - usage   
-dohil - health
+dohil - health   
+drim - sleep
 
 <!-- E -->
 ener - energy   
@@ -155,6 +156,7 @@ eneriothis - electronics
 ethe - do
 
 <!-- G -->
+genehil - repairing / treatment   
 gid - type / kind   
 group - group
 
@@ -244,6 +246,7 @@ unt - unit / *unit of measure*
 
 <!-- W -->
 walom - wall   
+wana - a wish / want   
 wioko - vision   
 wol - life   
 wuic - fast
