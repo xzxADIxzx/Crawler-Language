@@ -20,6 +20,7 @@ There are only a few endings and prefixes.
 e[plural] i[verb] or[occupation] thio[transformation]   
 al[all] aly[any] no[negation] la[adjective] tha[forced adjective] othe[other] re[repetition] ay[self]   
 Ending *e* and *thio* can be combined with ending *or*.
+Ending *thio* can be used as a noun or verb.
 
 * ingin - engineering
 * ingin\`or - engineer
@@ -128,7 +129,8 @@ aytem - item
 <!-- B -->
 blaco - coal   
 bron - durability   
-brum - drill
+brum - drill   
+bumo - explosion
 
 <!-- C -->
 capa - storage / capacity   
@@ -145,6 +147,7 @@ cryo - cryofluid
 cu - greetings
 
 <!-- D -->
+def - defense   
 dom - usage   
 dohil - health   
 drim - sleep
@@ -161,6 +164,8 @@ gid - type / kind
 group - group
 
 <!-- H -->
+hemet - chemical substance / element   
+hemiry - chemistry   
 hier - hearing
 
 <!-- I -->
@@ -197,7 +202,7 @@ noy - no / false
 
 <!-- O -->
 ocle - atom   
-omovey - homing
+omowey - homing
 
 <!-- P -->
 para - part / component   
@@ -217,11 +222,14 @@ pul - impulse / impact
 
 <!-- R -->
 radom - reactor   
+riact - reactivity   
 routher - router
 
 <!-- S -->
 sey - yes / true   
 shagl - metaglass   
+shawer - weapon   
+shawerity - weaponry   
 sili - silicon   
 solar - star   
 souwl - slow   
