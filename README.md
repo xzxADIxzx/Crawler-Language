@@ -218,6 +218,7 @@ plast - plastanium
 ploil - oil / *mineral liquid oily combustible substance*   
 potent - potential   
 promet - product   
+pruls - press / pressed   
 pur - purity / refined   
 pul - impulse / impact
 
