@@ -130,6 +130,7 @@ aytem - item
 blaco - coal   
 bron - durability   
 brum - drill   
+bumboat - bomd   
 bumo - explosion
 
 <!-- C -->
@@ -141,7 +142,6 @@ constict - structure / construction
 corupt - disease   
 cosmo - space   
 coum - ice   
-cosmo - space   
 crawler - fictional spider-like creatures   
 cryo - cryofluid   
 cu - greetings
@@ -166,6 +166,7 @@ group - group
 <!-- H -->
 hemet - chemical substance / element   
 hemiry - chemistry   
+hempara - compound   
 hier - hearing
 
 <!-- I -->
