@@ -18,7 +18,7 @@ Everything is simple, there are roots, prefixes and endings, the last two are ne
 Prefixes are at the beginning, roots are in the middle, and endings are separated from the root with the sign \`.
 There are only a few endings and prefixes.   
 e[plural] i[verb] or[occupation] thio[transformation]   
-al[all] aly[any] no[negation] la[adjective] tha[forced adjective] othe[other] re[repetition] ay[self]   
+al[all] aly[any] no[negation] la[adjective] tha[forced adjective] othe[other] re[repetition] ay[self] sau[start of action]   
 Ending *e* and *thio* can be combined with ending *or*.
 Ending *thio* can be used as a noun or verb.
 
@@ -128,6 +128,7 @@ aytem - item
 
 <!-- B -->
 blaco - coal   
+bolt - arc / curve   
 bron - durability   
 brum - drill   
 bumboat - bomd   
@@ -160,6 +161,7 @@ ethe - do
 
 <!-- G -->
 genehil - repairing / treatment   
+genedom - generator   
 gid - type / kind   
 group - group
 
@@ -235,6 +237,7 @@ shawerity - weaponry
 sili - silicon   
 solar - star   
 souwl - slow   
+sprey - spraying   
 spiar - talk   
 spor - spore pod   
 supar - sand / fine particles   
