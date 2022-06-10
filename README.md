@@ -11,7 +11,7 @@ Some combinations of letters form their own sounds.
 th[ð] ph[θ] sh[ʂ] ch[t͡ɕ]
 
 Some signs have their own name and are pronounced in speech.   
-?[as'] ![vɒu] |[ɲj]
+?[as'] ![vɒu] ;[ɲj]
 
 ## Word Formation
 Everything is simple, there are roots, prefixes and endings, the last two are needed to change the meaning of the word.
@@ -44,23 +44,22 @@ If the adjective comes before the word to which it refers, then the prefix *la* 
 * wuic ener pharom ayowl
 
 ## Sentence Formation
-The basic word order in this language is SVO.
-In a sentence, the subject is separated from the predicate with *dot*.
-Sentences are separated by a dot and a particle of time is placed at the end, but for convenience, you can not put a particle of time if the previous sentence has a particle of the same time, or replace it with a subordinate clause.
+Sentences consist of a subject and *content* parts acting as a predicate, adjective or object.
+Content parts are separated from the subject by the question they answer.
 
-* ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma imgur niw
-* ayowl dot spiar\`i coho yoy niw . yoy dot wioko\`i ma imgur
+* ayowl dot? - what am I doing?
+* ayowl dot drim`i - I sleep.
 
-The language also has subordinate clauses, but they are separated not by commas, but by the question to which they answer.
-In a very old version of the language, instead of the subordinating conjunctions *ma* and *coho* it was *toi*, but now this conjunction means *into*.
+Sentences are separated by a dot and a particle of time is placed at the end, but for convenience, you can not put a particle of time if the previous sentence has a particle of the same time, or replace it with a content part.
 
-* ayowl dot wioko\`i coho ingin\`or niw
-* ayowl dot nim\`i ma waoma niw
+* ayowl dot drim\`i niw . yoy dot spiar\`i niw - I am sleeping now. You're talking now.
+* ayowl dot drim\`i yet . yoy dot spiar\`i - I was asleep. You were talking.
+* ayowl dot drim\`i ate neybl - I sleep at night.
 
-If the sentence does not end after the complex part, then you need to put the sign |.
+If there are several content parts in the sentence related to the same subject, then they are separated by a semicolon.
 
-* ayowl dot wioko\`i ma spor niw
-* adpromet ma medi| arch wuic phur
+* ayowl dot wioko\`i ma spor niw - the first content part is related to *ayowl* and the second part is related to *spor*
+* adpromet ma medi; arch wuic phur - both parts related to *adpromet*
 
 There are well-established expressions in the language, i.e. instead of *ayowl dot cu\`i coho yoy niw* you can say just *cu*.
 Or for example *nim nim* translates as delicious.
@@ -91,7 +90,9 @@ There is no object case in this language, deal with it.
 * noeto - nothing
 * noate - never
 
-### Questions and Subordinating Conjunctions
+### Questions
+
+* dot - what doing
 * ma - what / of what
 * ima - what for
 * to - where
@@ -157,7 +158,7 @@ drim - sleep
 ener - energy   
 enerion - electricity   
 eneriothis - electronics   
-ethe - do
+ethe - do / make
 
 <!-- G -->
 genehil - repairing / treatment   
@@ -178,6 +179,7 @@ ingin - engineering
 
 <!-- L -->
 lap - plane / *flat surface*   
+layt - light   
 lengu - language   
 lio - liquid
 
@@ -197,6 +199,7 @@ memer - memory
 <!-- N -->
 new - understanding   
 newer - knowledge   
+neybl - night   
 nim - eat / drink   
 noami - name   
 noun - stone   
@@ -260,6 +263,7 @@ unt - unit / *unit of measure*
 <!-- W -->
 walom - wall   
 wana - a wish / want   
+wayt - day   
 wioko - vision   
 wol - life   
 wuic - fast
