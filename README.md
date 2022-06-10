@@ -54,11 +54,11 @@ Sentences are separated by a dot and a particle of time is placed at the end, bu
 
 * ayowl dot drim\`i niw . yoy dot spiar\`i niw - I am sleeping now. You're talking now.
 * ayowl dot drim\`i yet . yoy dot spiar\`i - I was asleep. You were talking.
-* ayowl dot drim\`i ate neybl - I sleep at night.
+* ayowl dot drim\`i at neybl - I sleep at night.
 
 If there are several content parts in the sentence related to the same subject, then they are separated by a semicolon.
 
-* ayowl dot wioko\`i ma spor niw - the first content part is related to *ayowl* and the second part is related to *spor*
+* ayowl dot wioko\`i ma spor niw - the first content part is related to *ayowl* and the second part is related to *wioko*
 * adpromet ma medi; arch wuic phur - both parts related to *adpromet*
 
 There are well-established expressions in the language, i.e. instead of *ayowl dot cu\`i coho yoy niw* you can say just *cu*.
@@ -82,13 +82,13 @@ There is no object case in this language, deal with it.
 
 * alone - everybody
 * aleto - everything
-* alate - always
+* alat - always
 * alyone - anybody
 * alyeto - anything
-* alyate - anytime
+* alyat - anytime
 * noone - nobody
 * noeto - nothing
-* noate - never
+* noat - never
 
 ### Questions
 
@@ -97,8 +97,9 @@ There is no object case in this language, deal with it.
 * ima - what for
 * to - where
 * toi - where to / into
+* at - when
+* ati - while
 * cuth - why / because
-* ate - when
 * coho - who / whom
 * arch - what it is like / equals
 
