@@ -101,7 +101,7 @@ There is no object case in this language, deal with it.
 * ati - while
 * cuth - why / because
 * coho - who / whom
-* arch - what it is like / equals
+* arch - what it is like / equals / as
 
 ### Particles of Time
 Subordinate clause can be used instead.
@@ -150,7 +150,7 @@ cryo - cryofluid
 cu - greetings
 
 <!-- D -->
-def - defense   
+deph - defense   
 dom - usage   
 dohil - health   
 drim - sleep
@@ -186,7 +186,7 @@ lio - liquid
 
 <!-- M -->
 magma - magma / slag   
-mags - moltenness   
+magwo - moltenness   
 manpara - complex   
 maoma - water   
 mawo - wetness   
@@ -219,7 +219,7 @@ pharom - fire
 phawo - burness   
 phou - air   
 phuil - fuel   
-phurs - softness   
+phurwo - softness   
 plast - plastanium   
 ploil - oil / *mineral liquid oily combustible substance*   
 potent - potential   
