@@ -145,6 +145,7 @@ constict - structure / construction
 corupt - disease   
 cosmo - space   
 coum - ice   
+cowo - coldness   
 crawler - fictional spider-like creatures   
 cryo - cryofluid   
 cu - greetings
