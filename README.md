@@ -166,7 +166,8 @@ ethe - do / make
 genehil - repairing / treatment   
 genedom - generator   
 gid - type / kind   
-group - group
+group - group   
+gwe - waste / garbage
 
 <!-- H -->
 hemet - chemical substance / element   
@@ -196,7 +197,8 @@ melo - alloy
 mesh - scrap   
 metal - metal   
 metio - block   
-memer - memory
+memer - memory   
+mihathis - machine / mechanism
 
 <!-- N -->
 new - understanding   
@@ -227,6 +229,7 @@ potent - potential
 promet - product   
 pruls - press / pressed   
 pur - purity / refined   
+pursh - processing   
 pul - impulse / impact
 
 <!-- R -->
