@@ -139,7 +139,6 @@ bumo - explosion
 <!-- C -->
 capa - storage / capacity   
 centarom - core / kernel   
-saynet - kinetics   
 con - connection   
 constict - structure / construction   
 corupt - disease   
@@ -242,6 +241,7 @@ riact - reactivity
 routher - router
 
 <!-- S -->
+saynet - kinetics   
 sey - yes / true   
 shagl - metaglass   
 shawer - weapon   
