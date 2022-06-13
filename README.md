@@ -95,7 +95,7 @@ There is no object case in this language, deal with it.
 * dot - what doing
 * ma - what / of what
 * ima - what for
-* to - where
+* to - where / where in
 * toi - where to / into
 * at - when
 * ati - while
@@ -151,6 +151,8 @@ cryo - cryofluid
 cu - greetings
 
 <!-- D -->
+decons - consumption   
+deon - removal / deletion   
 deph - defense   
 dom - usage   
 dohil - health   
@@ -178,7 +180,8 @@ hier - hearing
 <!-- I -->
 isolayt - insulation   
 imgur - image   
-ingin - engineering
+ingin - engineering   
+inpho - information
 
 <!-- L -->
 lap - plane / *flat surface*   
@@ -216,6 +219,7 @@ omowey - homing
 
 <!-- P -->
 para - part / component   
+paral - constitute   
 paralap - panel   
 parash - fragment   
 pharom - fire   
@@ -245,14 +249,15 @@ shawerity - weaponry
 sili - silicon   
 solar - star   
 souwl - slow   
-sprey - spraying   
 spiar - talk   
 spor - spore pod   
+sprey - spraying   
+separay - separation   
 supar - sand / fine particles   
 surs - resource
 
 <!-- T -->
-terv - looseness   
+terv - looseness / friability   
 thosa - lead   
 titin - titanium   
 tophi - phase fabric   
