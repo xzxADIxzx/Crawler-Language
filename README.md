@@ -193,6 +193,7 @@ magma - magma / slag
 magwo - moltenness   
 manpara - complex   
 maoma - water   
+mat - material   
 mawo - wetness   
 medi - copper   
 melo - alloy   
@@ -233,10 +234,13 @@ promet - product
 pruls - press / pressed   
 pur - purity / refined   
 pursh - processing   
-pul - impulse / impact
+pul - impulse / impact   
+pulsol - pulsar
 
 <!-- R -->
+radio - radio   
 radom - reactor   
+radsol - quasar   
 riact - reactivity   
 routher - router
 
@@ -247,6 +251,7 @@ shagl - metaglass
 shawer - weapon   
 shawerity - weaponry   
 sili - silicon   
+sol - day cycle   
 solar - star   
 souwl - slow   
 spiar - talk   
