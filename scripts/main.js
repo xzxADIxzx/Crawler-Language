@@ -1,5 +1,5 @@
 Events.on(EventType.ClientLoadEvent, event => {
-	var button = new TextButton("crawler langu", Styles.clearTogglet);
+	var button = new TextButton("crawler lengu", Styles.clearTogglet);
 	button.clicked(() => {
 		if (Core.settings.getString("locale") == "cw") return;
 		Core.settings.put("locale", "cw");
