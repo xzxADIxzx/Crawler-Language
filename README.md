@@ -82,12 +82,15 @@ There is no object case in this language, deal with it.
 
 * alone - everybody
 * aleto - everything
+* alto - everywhere
 * alat - always
 * alyone - anybody
 * alyeto - anything
+* alyto - anywhere 
 * alyat - anytime
 * noone - nobody
 * noeto - nothing
+* noto - nowhere
 * noat - never
 
 ### Questions
@@ -129,6 +132,7 @@ amuno - ammunition
 aytem - item
 
 <!-- B -->
+birm - mace / hammer   
 blaco - coal   
 bolt - arc / curve   
 bron - durability   
@@ -153,6 +157,7 @@ cu - greetings
 decons - consumption   
 deon - removal / deletion   
 deph - defense   
+dephomet - fortress   
 dom - usage   
 dohil - health   
 drim - sleep
@@ -204,6 +209,7 @@ memer - memory
 mihathis - machine / mechanism
 
 <!-- N -->
+nayphl - knife / dagger   
 new - understanding   
 newer - knowledge   
 neybl - night   
@@ -267,6 +273,7 @@ thosa - lead
 titin - titanium   
 tophi - phase fabric   
 tori - thorium   
+trabl - trouble / problem   
 tramov - transportation   
 trasprey - distribution   
 turet - turret
