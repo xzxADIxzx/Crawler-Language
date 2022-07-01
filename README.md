@@ -189,6 +189,7 @@ inpho - information
 
 <!-- L -->
 lap - plane / *flat surface*   
+laymento - flare / flash    
 layt - light   
 lengu - language   
 lio - liquid
@@ -205,6 +206,7 @@ melo - alloy
 mesh - scrap   
 metal - metal   
 metio - block   
+memento - moment   
 memer - memory   
 mihathis - machine / mechanism
 
@@ -215,7 +217,9 @@ newer - knowledge
 neybl - night   
 nim - eat / drink   
 noami - name   
+nou - reign / power   
 noun - stone   
+noustict - scepter   
 nowey - advanced / new   
 noy - no / false
 
@@ -252,18 +256,20 @@ routher - router
 
 <!-- S -->
 saynet - kinetics   
+separay - separation   
 sey - yes / true   
 shagl - metaglass   
 shawer - weapon   
 shawerity - weaponry   
 sili - silicon   
+slap - sector / region   
 sol - day cycle   
 solar - star   
 souwl - slow   
 spiar - talk   
 spor - spore pod   
 sprey - spraying   
-separay - separation   
+stict - stick / beam   
 supar - sand / fine particles   
 surs - resource
 
