@@ -18,7 +18,7 @@ Everything is simple, there are roots, prefixes and endings, the last two are ne
 Prefixes are at the beginning, roots are in the middle, and endings are separated from the root with the sign \`.
 There are only a few endings and prefixes.   
 e[plural] i[verb] or[occupation] thio[transformation]   
-al[all] aly[any] no[negation] la[adjective] tha[forced adjective] othe[other] re[repetition] ay[self] sau[start of action]   
+al[all] aly[any] no[negation] la[adjective] tha[forced adjective] othe[other] re[repetition] ove[over] ay[self] sau[start of action]   
 Ending *e* and *thio* can be combined with ending *or*.
 Ending *thio* can be used as a noun or verb.
 
@@ -163,6 +163,7 @@ dohil - health
 drim - sleep
 
 <!-- E -->
+eclipsol - eclipse   
 ener - energy   
 enerion - electricity   
 eneriothis - electronics   
@@ -172,14 +173,17 @@ ethe - do / make
 genehil - repairing / treatment   
 genedom - generator   
 gid - type / kind   
+god - omnipotence / absolute power   
 group - group   
+gud - good / well   
 gwe - waste / garbage
 
 <!-- H -->
 hemet - chemical substance / element   
 hemiry - chemistry   
 hempara - compound   
-hier - hearing
+hier - hearing   
+horaython - horizon   
 
 <!-- I -->
 isolayt - insulation   
@@ -190,6 +194,7 @@ inpho - information
 <!-- L -->
 lap - plane / *flat surface*   
 laymento - flare / flash    
+layan - sunrise / sunset   
 layt - light   
 lengu - language   
 lio - liquid
@@ -225,6 +230,7 @@ noy - no / false
 
 <!-- O -->
 ocle - atom   
+thenit - zenith / maximum   
 omowey - homing
 
 <!-- P -->
@@ -276,6 +282,7 @@ surs - resource
 <!-- T -->
 terv - looseness / friability   
 thosa - lead   
+tim - team / faction   
 titin - titanium   
 tophi - phase fabric   
 tori - thorium   
