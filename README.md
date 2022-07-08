@@ -134,6 +134,7 @@ aytem - item
 <!-- B -->
 birm - mace / hammer   
 blaco - coal   
+boat - bullet   
 bolt - arc / curve   
 bron - durability   
 brum - drill   
@@ -143,6 +144,7 @@ bumo - explosion
 <!-- C -->
 capa - storage / capacity   
 centarom - core / kernel   
+clouth - closeness / nearness   
 con - connection   
 constict - structure / construction   
 corupt - disease   
@@ -213,7 +215,8 @@ metal - metal
 metio - block   
 memento - moment   
 memer - memory   
-mihathis - machine / mechanism
+mihathis - machine / mechanism   
+mila - cuteness
 
 <!-- N -->
 nayphl - knife / dagger   
@@ -229,6 +232,7 @@ nowey - advanced / new
 noy - no / false
 
 <!-- O -->
+ocey - okay / fine   
 ocle - atom   
 thenit - zenith / maximum   
 omowey - homing
@@ -238,7 +242,9 @@ para - part / component
 paral - constitute   
 paralap - panel   
 parash - fragment   
+phair - enemy / foe   
 pharom - fire   
+phayth - fear   
 phawo - burness   
 phou - air   
 phuil - fuel   
@@ -267,6 +273,7 @@ sey - yes / true
 shagl - metaglass   
 shawer - weapon   
 shawerity - weaponry   
+shot - shoot / fire   
 sili - silicon   
 slap - sector / region   
 sol - day cycle   
@@ -275,6 +282,7 @@ souwl - slow
 spiar - talk   
 spor - spore pod   
 sprey - spraying   
+standeph - standard / default   
 stict - stick / beam   
 supar - sand / fine particles   
 surs - resource
