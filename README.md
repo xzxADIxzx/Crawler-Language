@@ -61,7 +61,7 @@ If there are several content parts in the sentence related to the same subject, 
 * ayowl dot wioko\`i ma spor niw - the first content part is related to *ayowl* and the second part is related to *wioko*
 * adpromet ma medi; arch wuic phur - both parts related to *adpromet*
 
-There are well-established expressions in the language, i.e. instead of *ayowl dot cu\`i coho yoy niw* you can say just *cu*.
+There are well-established expressions in the language, i.e. instead of *ayowl dot cu\`i co yoy niw* you can say just *cu*.
 Or for example *nim nim* translates as delicious.
 
 ## Vocabulary
@@ -102,8 +102,8 @@ There is no object case in this language, deal with it.
 * toi - where to / into
 * at - when
 * ati - while
+* co - who / whom
 * cuth - why / because
-* coho - who / whom
 * arch - what it is like / equals / as
 
 ### Particles of Time
@@ -216,7 +216,9 @@ metio - block
 memento - moment   
 memer - memory   
 mihathis - machine / mechanism   
-mila - cuteness
+mila - cuteness   
+mord - death   
+morder - murder
 
 <!-- N -->
 nayphl - knife / dagger   
@@ -243,7 +245,7 @@ paral - constitute
 paralap - panel   
 parash - fragment   
 phair - enemy / foe   
-pharom - fire   
+pharom - fire / flame   
 phayth - fear   
 phawo - burness   
 phou - air   
@@ -264,6 +266,7 @@ radio - radio
 radom - reactor   
 radsol - quasar   
 riact - reactivity   
+rive - river / stream / flow   
 routher - router
 
 <!-- S -->
