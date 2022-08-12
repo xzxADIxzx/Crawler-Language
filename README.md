@@ -18,7 +18,7 @@ Everything is simple, there are roots, prefixes and endings, the last two are ne
 Prefixes are at the beginning, roots are in the middle, and endings are separated from the root with the sign \`.
 There are only a few endings and prefixes.   
 e[plural] i[verb] or[occupation] thio[transformation]   
-al[all] aly[any] no[negation] la[adjective] tha[forced adjective] othe[other] re[repetition] ove[over] ay[self] sau[start of action]   
+al[all] aly[any] no[negation] la[adjective] tha[forced adjective] othe[other] re[repetition] owe[over] ay[self] sau[start of action]   
 Ending *e* and *thio* can be combined with ending *or*.
 Ending *thio* can be used as a noun or verb.
 
@@ -266,7 +266,7 @@ radio - radio
 radom - reactor   
 radsol - quasar   
 riact - reactivity   
-rive - river / stream / flow   
+riwe - river / stream / flow   
 routher - router
 
 <!-- S -->
