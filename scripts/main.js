@@ -20,7 +20,8 @@ if (Core.settings.getString("locale") != "cw") return;
 var meta = Vars.mods.locateMod("crawler-language").meta;
 meta.author = "[#0096FF]xzxADIxzx";
 meta.displayName = "Crawler Lengu ";
-meta.description = "adon`i ma lengu toi [accent]Mindustry[]"
+meta.subtitle = "adon`i ma lengu toi [accent]Mindustry[]"
+meta.description = "lengu arch laconsept; en refer`i toi crawler gid"
 
 // create a new bundle
 var file = Vars.mods.locateMod("crawler-language").root.child("bundles").child("bundle_cw.properties");

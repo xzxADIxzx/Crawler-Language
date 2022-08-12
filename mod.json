@@ -1,9 +1,10 @@
 {
 	"name": "crawler-language",
 	"displayName": "Crawler Language",
-	"description": "Adds a new language to Mindustry.",
-	"author": "xzxADIxzx",
-	"version": "0.6",
-	"minGameVersion": "105",
+	"subtitle": "Adds a new language to Mindustry",
+	"description": "This language is conceptual and belongs to fictional arachnid creatures.",
+	"author": "[#0096FF]xzxADIxzx",
+	"version": "0.61",
+	"minGameVersion": "137",
 	"hidden": true
 }
