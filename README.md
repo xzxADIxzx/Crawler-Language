@@ -57,6 +57,7 @@ Sentences are separated by a dot and a particle of time is placed at the end, bu
 * ayowl dot drim\`i at neybl - I sleep at night.
 
 If there are several content parts in the sentence related to the same subject, then they are separated by a semicolon.
+Exception - en and ale.
 
 * ayowl dot wioko\`i ma spor niw - the first content part is related to *ayowl* and the second part is related to *wioko*
 * adpromet ma medi; arch wuic phur - both parts related to *adpromet*
@@ -105,6 +106,8 @@ There is no object case in this language, deal with it.
 * co - who / whom
 * cuth - why / because
 * arch - what it is like / equals / as
+* en - and what
+* ale - but what
 
 ### Particles of Time
 Subordinate clause can be used instead.
